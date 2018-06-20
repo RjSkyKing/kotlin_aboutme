@@ -6,6 +6,6 @@ fun main(args: Array<String>) {
     if (i in 1..10) { // equivalent of 1 <= i && i <= 10
         println("we found your number" + i)
     }
-    var tmp = 0
+    var tmp = 2
 
 }
